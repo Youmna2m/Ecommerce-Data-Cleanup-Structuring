@@ -1,4 +1,4 @@
-🛒 E-Commerce Data Cleanup & Structuring (SQL Project)
+🛒 E-Commerce Data Cleanup & Modeling (SQL Project)
 
 Overview:
 
