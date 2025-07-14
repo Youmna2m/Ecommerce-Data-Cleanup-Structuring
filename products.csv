@@ -1,0 +1,453 @@
+ProductID,ProductName,Price,CategoryID,Class,ModifyDate,Resistant,IsAllergic,VitalityDays
+1,Flour - whole wheat,74.2988,3,Medium,2018-02-16,Durable,Unknown,0
+2,Cookie chocolate chip with,91.232900000000001,3,Medium,2017-02-12,Unknown,Unknown,0
+3,Onions - cippolini,9.1379000000000001,9,Medium,2018-03-15,Weak,False,111
+4,"sauce - gravy,54.305500000000002,9,Medium,2017-11-06,Durable,Unknown,0
+5,Artichokes - jerusalem,65.477099999999993,2,Low,2017-08-16,Durable,True,27
+6,Wine - magnotta - cab sauv,79.718400000000003,8,High,2017-05-25,Unknown,Unknown,0
+7,Table cloth - 53x69 colour,31.837,9,Medium,2017-02-24,Durable,False,0
+8,Halibut - steaks,89.857299999999995,5,Medium,2018-03-24,Unknown,True,108
+9,Rabbit - whole,84.421899999999994,11,Medium,2017-06-17,Durable,Unknown,0
+10,Scampi tail,95.095699999999994,4,Low,2017-07-30,Weak,True,105
+11,Garbage bags - clear,6.2949000000000002,9,Low,2017-01-05,Durable,True,67
+12,Ezy change mophandle,49.335599999999999,4,Medium,2017-11-01,Durable,True,0
+13,"water,28.223199999999999,11,Low,2017-01-16,Durable,False,69
+14,Beef - top sirloin,3.3323999999999998,7,Medium,2017-02-26,Durable,True,0
+15,"spoon - soup,32.442,1,Low,2017-03-03,Weak,True,0
+16,Kellogs special k cereal,54.724600000000002,2,Low,2017-01-23,Durable,True,0
+17,"wine - white,43.918199999999999,10,Medium,2017-03-01,Unknown,Unknown,0
+18,"lamb - whole,23.396599999999999,10,Medium,2017-12-19,Unknown,False,0
+19,Tea - earl grey,22.561399999999999,3,Medium,2017-06-14,Weak,True,94
+20,Chocolate - feathers,85.9011,3,Low,2017-07-21,Durable,True,0
+21,Kiwi,46.725200000000001,7,High,2018-05-09,Durable,Unknown,0
+22,Rice - jasmine sented,27.895499999999998,6,Medium,2017-05-09,Weak,Unknown,48
+23,Crab - imitation flakes,79.0184,11,Medium,2017-08-19,Durable,True,0
+24,"beer - alexander kieths,89.037000000000006,3,Medium,2017-05-23,Durable,True,65
+25,Soupcontfoam16oz 116con,80.766599999999997,10,High,2017-04-09,Durable,True,0
+26,Squid u5 - thailand,33.7821,11,Medium,2018-03-26,Weak,False,10
+27,Chocolate - compound coating,17.1724,1,Medium,2017-10-29,Unknown,Unknown,86
+28,Sobe - tropical energy,12.315300000000001,9,High,2017-10-25,Durable,True,0
+29,Spinach - baby,33.588299999999997,7,Low,2017-08-06,Durable,True,50
+30,"cheese - brie,67.899000000000001,6,Low,2018-03-21,Weak,Unknown,72
+31,Yeast dry - fermipan,73.985100000000003,2,Medium,2017-04-17,Durable,False,0
+32,Lettuce - treviso,96.412700000000001,3,High,2017-01-09,Durable,True,0
+33,Beans - wax,45.555100000000003,10,Medium,2017-02-01,Weak,True,0
+34,Mustard prepared,43.346299999999999,6,Medium,2017-09-21,Weak,Unknown,7
+35,"water - mineral,15.7233,6,Low,2017-10-01,Durable,True,97
+36,Table cloth 54x72 white,69.257400000000004,9,Low,2018-03-04,Durable,True,0
+37,"nut - pistachio,80.317099999999996,7,Low,2017-02-27,Unknown,False,0
+38,Sage - ground,81.657899999999998,6,High,2017-09-26,Weak,False,0
+39,Dried figs,75.2059,11,Medium,2017-08-04,Weak,False,120
+40,Cocktail napkin blue,8.9372000000000007,8,Low,2017-06-28,Unknown,Unknown,0
+41,"cup - 6oz,81.721000000000004,7,Medium,2018-03-15,Unknown,True,0
+42,Bread - raisin walnut oval,81.0488,1,High,2018-04-01,Weak,False,0
+43,Sponge cake mix - chocolate,16.398299999999999,9,High,2017-08-12,Weak,True,96
+44,"wine - white,48.598100000000002,7,High,2018-04-09,Durable,True,0
+45,Beef - ground medium,79.532399999999996,4,Medium,2018-03-23,Weak,True,0
+46,Lambcasing,86.791499999999999,9,High,2017-07-12,Durable,False,0
+47,"thyme - lemon,47.133899999999997,9,High,2018-02-16,Weak,False,0
+48,Pecan raisin - tarts,60.362499999999997,7,Low,2017-11-26,Unknown,Unknown,114
+49,Bacardi breezer - tropical,61.431699999999999,8,High,2017-01-03,Durable,False,0
+50,Pork - kidney,43.2864,7,High,2018-04-21,Weak,True,0
+51,Wine - crozes hermitage e.,81.013400000000004,11,Medium,2017-05-16,Unknown,Unknown,0
+52,"turnip - white,55.605899999999998,1,Low,2017-06-27,Durable,False,0
+53,Cassis,92.627899999999997,8,Medium,2018-02-16,Weak,True,0
+54,"liners - banana,53.559199999999997,9,Medium,2017-06-23,Weak,True,0
+55,Cinnamon buns sticky,6.6181999999999999,3,High,2018-03-05,Unknown,False,85
+56,Chips potato salt vinegar 43g,46.403300000000002,9,Low,2017-10-10,Weak,False,0
+57,Sausage - breakfast,12.214499999999999,3,Low,2017-11-03,Unknown,True,103
+58,Dc hikiage hira huba,20.100899999999999,7,Low,2017-10-24,Durable,Unknown,91
+59,Pastry - butterscotch baked,73.538899999999998,10,High,2017-04-08,Unknown,False,0
+60,"pepper - paprika,31.694900000000001,2,Medium,2017-09-29,Weak,Unknown,0
+61,Sardines,62.545999999999999,8,Low,2017-12-03,Durable,False,90
+62,Pears - bosc,19.521699999999999,1,Medium,2017-09-09,Unknown,Unknown,13
+63,Cake - mini cheesecake,56.268900000000002,9,Low,2017-08-18,Weak,Unknown,0
+64,Vinegar - sherry,16.5229,6,Low,2017-08-05,Unknown,True,94
+65,Brandy - bar,21.110600000000002,3,High,2017-04-14,Weak,False,0
+66,Pie filling - cherry,9.8823000000000008,7,Medium,2018-05-06,Weak,False,0
+67,Wine - sogrape mateus rose,3.7805,5,Low,2017-09-30,Unknown,True,108
+68,"beets - candy cane,84.876900000000006,6,High,2017-09-04,Durable,False,72
+69,Raspberries - fresh,87.609200000000001,1,Low,2017-10-04,Unknown,True,0
+70,Squid - tubes / tenticles 10/20,63.184600000000003,4,Low,2017-05-08,Weak,True,45
+71,Cheese - wine,74.407600000000002,6,Low,2018-04-04,Durable,Unknown,0
+72,Bar - granola trail mix fruit nut,62.260300000000001,4,High,2017-10-13,Durable,False,0
+73,Appetizer - sausage rolls,48.1907,11,Low,2017-05-17,Weak,True,0
+74,Carbonated water - cherry,13.6241,7,Medium,2018-04-26,Durable,False,26
+75,Chef hat 20cm,4.1799999999999997,8,High,2017-09-14,Durable,Unknown,116
+76,Wine - fume blanc fetzer,65.676500000000004,6,Low,2017-02-08,Durable,False,95
+77,Potatoes - idaho 100 count,11.4971,9,Medium,2018-02-04,Durable,False,0
+78,Wine - magnotta - belpaese,30.420200000000001,4,Medium,2017-09-18,Weak,Unknown,0
+79,"pasta - penne,9.5045000000000002,11,High,2017-11-06,Weak,False,104
+80,Wasabi powder,93.975200000000001,2,High,2018-02-04,Weak,True,0
+81,Cookies - assorted,86.648300000000006,2,Medium,2017-02-08,Unknown,Unknown,0
+82,Jolt cola - electric blue,56.809899999999999,5,Low,2018-04-12,Unknown,Unknown,63
+83,Lamb - ground,50.883699999999997,1,High,2017-10-22,Durable,Unknown,116
+84,Peas - frozen,90.301900000000003,1,Medium,2017-08-25,Durable,False,0
+85,Cheese - parmesan cubes,86.8857,7,High,2017-11-06,Durable,Unknown,0
+86,Longos - grilled chicken with,18.379100000000001,2,Low,2018-02-28,Weak,False,0
+87,Wine - pinot noir latour,3.7847,7,Low,2017-04-02,Unknown,False,0
+88,Remy red,91.995999999999995,2,Low,2017-12-19,Durable,Unknown,0
+89,"beef - ground,36.728099999999998,3,Medium,2017-11-06,Weak,True,0
+90,Flavouring - orange,69.319999999999993,9,High,2018-04-30,Unknown,True,37
+91,General purpose trigger,57.042900000000003,6,High,2017-05-02,Durable,True,97
+92,"wine - red,60.216099999999997,1,Low,2017-09-13,Weak,Unknown,0
+93,Bandage - fexible 1x3,8.1189999999999998,8,Low,2017-06-20,Durable,False,11
+94,V8 - berry blend,43.510899999999999,9,High,2018-03-15,Weak,Unknown,108
+95,Beans - kidney white,46.391300000000001,1,High,2017-12-02,Unknown,Unknown,0
+96,Cheese - bocconcini,62.199300000000001,7,High,2017-07-07,Unknown,False,0
+97,Veal - inside,24.779800000000002,4,Medium,2017-08-14,Weak,True,0
+98,Shrimp - 31/40,99.875500000000002,3,High,2017-01-07,Weak,False,0
+99,Mustard - seed,27.487400000000001,5,Low,2017-12-27,Weak,True,0
+100,"pork - loin,69.650099999999995,9,Low,2018-03-27,Durable,Unknown,7
+101,"soup - campbells,83.010999999999996,4,Medium,2018-02-19,Durable,Unknown,99
+102,"rosemary - primerba,62.256999999999998,4,High,2017-06-14,Unknown,False,0
+103,Cream of tartar,72.753399999999999,7,Low,2017-02-22,Unknown,Unknown,0
+104,Tia maria,98.247100000000003,5,High,2018-01-04,Unknown,False,0
+105,Ecolab - mikroklene 4/4 l,68.878900000000002,1,Medium,2017-01-17,Durable,True,0
+106,Pickerel - fillets,18.753,7,High,2017-12-11,Weak,False,19
+107,Bread - french baquette,7.4150999999999998,1,High,2017-02-10,Weak,False,0
+108,Pasta - orecchiette,79.003799999999998,1,High,2018-03-01,Weak,True,0
+109,Muffin - zero transfat,49.379100000000001,1,Medium,2018-02-15,Durable,False,0
+110,Black currants,40.941699999999997,9,High,2018-01-26,Durable,Unknown,48
+111,Scallops 60/80 iqf,34.906100000000002,11,Medium,2018-01-13,Durable,Unknown,0
+112,Browning caramel glace,81.794300000000007,10,High,2017-02-15,Weak,Unknown,0
+113,Ocean spray - kiwi strawberry,10.596399999999999,7,Low,2017-04-17,Unknown,False,106
+114,Veal - osso bucco,79.563800000000001,8,High,2017-07-11,Weak,True,93
+115,Ocean spray - ruby red,45.046599999999998,11,Low,2017-08-22,Weak,False,0
+116,Steam pan - half size deep,5.7359999999999998,3,Low,2017-12-31,Weak,True,104
+117,Ketchup - tomato,68.638000000000005,11,High,2018-03-27,Weak,Unknown,0
+118,Garbag bags - black,65.966999999999999,9,High,2018-05-02,Weak,Unknown,0
+119,Soup campbells - italian wedding,29.6372,11,Medium,2018-02-06,Unknown,False,0
+120,Water - spring water 500ml,2.7313999999999998,2,Medium,2017-06-23,Durable,Unknown,94
+121,Muffin batt - blueberry passion,6.0975999999999999,11,Low,2018-02-03,Durable,Unknown,0
+122,Table cloth 62x114 white,11.7845,4,High,2018-02-19,Weak,False,0
+123,Oil - shortening - all - purpose,48.148699999999998,4,Low,2018-02-15,Unknown,Unknown,0
+124,Macaroons - two bite choc,18.289100000000001,4,Low,2017-10-13,Unknown,True,81
+125,"nut - chestnuts,6.1417000000000002,9,Low,2017-01-07,Weak,False,0
+126,Crackers - trio,14.1914,6,Low,2017-07-23,Unknown,Unknown,76
+127,Island oasis - mango daiquiri,54.141300000000001,8,Medium,2017-04-25,Unknown,False,34
+128,Coffee - irish cream,4.6797000000000004,2,Medium,2017-07-12,Durable,Unknown,71
+129,Chicken - soup base,67.232900000000001,7,High,2017-05-26,Durable,True,0
+130,Beef wellington,41.980800000000002,2,Low,2017-03-11,Unknown,False,0
+131,Anchovy paste - 56 g tube,40.896700000000003,3,Medium,2017-11-03,Durable,False,0
+132,Beer - blue,11.621700000000001,6,High,2018-01-28,Weak,False,24
+133,Beef - top sirloin - aaa,2.9327000000000001,11,Low,2018-01-30,Weak,Unknown,0
+134,Wine - toasted head,39.854500000000002,2,High,2017-08-21,Weak,True,0
+135,Wiberg super cure,10.9641,10,Low,2018-04-25,Durable,False,61
+136,Vol au vents,24.391300000000001,10,Medium,2018-01-03,Weak,True,0
+137,"wine - white,84.056600000000003,10,Low,2018-02-19,Durable,False,0
+138,"rum - coconut,52.636699999999998,7,Low,2018-02-24,Durable,Unknown,0
+139,Chicken - wieners,21.422999999999998,1,High,2017-08-09,Weak,False,0
+140,"oregano - dry,68.132599999999996,11,High,2018-04-04,Durable,Unknown,16
+141,Tea - herbal sweet dreams,10.964,1,Low,2018-01-19,Durable,True,37
+142,"pork - bacon,24.780899999999999,6,Medium,2017-06-10,Weak,True,0
+143,Watercress,42.616900000000001,1,Medium,2018-03-13,Unknown,True,0
+144,"placemat - scallop,95.786500000000004,5,Medium,2018-03-09,Durable,False,0
+145,Wine - chardonnay south,34.413899999999998,9,Low,2017-04-18,Durable,Unknown,27
+146,Bananas,75.248599999999996,7,High,2017-03-18,Durable,False,0
+147,Cheese - mozzarella,49.619700000000002,5,High,2017-05-29,Unknown,False,0
+148,Beer - sleemans cream ale,28.555299999999999,11,Medium,2018-04-19,Durable,True,91
+149,Zucchini - yellow,98.464399999999998,10,High,2017-07-25,Weak,True,0
+150,Langers - ruby red grapfruit,40.655200000000001,9,High,2018-04-10,Durable,False,0
+151,"mushrooms - black,93.561300000000003,7,High,2017-08-19,Weak,True,0
+152,"lentils - red,58.812800000000003,7,Medium,2017-08-22,Unknown,Unknown,26
+153,Arizona - green tea,70.238200000000006,4,Low,2017-04-10,Weak,False,0
+154,Ice cream bar - drumstick,24.756,4,Medium,2017-07-06,Weak,True,0
+155,"peas - pigeon,63.552399999999999,9,High,2017-02-21,Weak,False,0
+156,Sprouts - alfalfa,71.226399999999998,1,High,2018-05-09,Durable,False,0
+157,"juice - cranberry,14.1082,11,Medium,2017-09-06,Unknown,False,19
+158,Apricots fresh,54.464300000000001,4,High,2017-09-18,Unknown,False,18
+159,Eggplant - asian,92.1053,7,Medium,2017-12-29,Durable,True,0
+160,Beef ground medium,54.687399999999997,7,Medium,2017-11-03,Weak,True,0
+161,Longos - chicken wings,64.611800000000002,10,Low,2017-08-18,Weak,Unknown,0
+162,Sauce - demi glace,2.7353000000000001,11,Medium,2017-12-08,Weak,True,117
+163,Tomatoes tear drop,11.770799999999999,6,Low,2017-10-07,Unknown,True,116
+164,Loquat,7.3982000000000001,11,Medium,2017-12-07,Unknown,False,0
+165,Bread crumbs - japanese style,4.4900000000000002E-2,6,Low,2017-03-26,Unknown,False,0
+166,Tray - 16in rnd blk,23.284300000000002,5,High,2018-04-25,Durable,False,0
+167,Knife plastic - white,78.861500000000007,11,Medium,2017-05-26,Durable,False,0
+168,Milk - 2%,70.741900000000001,6,Medium,2018-01-03,Unknown,True,29
+169,Water - aquafina vitamin,68.599599999999995,10,Medium,2017-07-26,Unknown,False,0
+170,Initation crab meat,20.6553,1,Medium,2017-12-26,Durable,False,0
+171,Gloves - goldtouch disposable,21.679400000000001,5,High,2018-03-21,Durable,False,0
+172,Sherry - dry,16.001300000000001,5,High,2017-01-31,Durable,Unknown,72
+173,Rosemary - dry,44.543999999999997,8,Low,2017-09-24,Durable,False,0
+174,Guinea fowl,61.5047,11,High,2018-03-13,Durable,True,0
+175,Oil - safflower,91.767499999999998,1,Low,2017-10-12,Weak,True,52
+176,Smirnoff green apple twist,81.316699999999997,6,High,2017-08-27,Durable,True,90
+177,"coconut - shredded,69.167699999999996,3,Medium,2018-04-18,Weak,True,0
+178,Pernod,52.362299999999998,10,High,2018-04-17,Weak,True,0
+179,Yoghurt tubes,83.875200000000007,6,Low,2017-06-28,Durable,Unknown,26
+180,Chocolate - dark,30.8932,3,Low,2018-03-01,Durable,True,27
+181,Phyllo dough,64.571799999999996,1,Medium,2017-02-24,Unknown,False,0
+182,Campari,25.585999999999999,9,Low,2017-05-16,Weak,False,54
+183,Spice - peppercorn melange,6.2153999999999998,4,High,2018-04-27,Weak,False,0
+184,Hersey shakes,26.5776,9,Low,2017-06-24,Weak,True,0
+185,Foam dinner plate,48.419499999999999,6,Low,2017-11-30,Weak,Unknown,40
+186,Muffin mix - blueberry,82.0839,8,Low,2017-03-15,Weak,False,0
+187,"pepper - black,41.383499999999998,3,Medium,2017-10-20,Durable,False,31
+188,Cup - translucent 7 oz clear,78.1768,8,High,2017-07-27,Durable,False,91
+189,"bread - roll,76.302099999999996,5,High,2017-07-01,Unknown,False,16
+190,Cake - cake sheet macaroon,39.7378,9,Medium,2018-04-25,Durable,True,93
+191,"hickory smoke,10.282999999999999,10,High,2017-04-30,Weak,Unknown,0
+192,"wine - magnotta,29.592300000000002,7,Medium,2017-06-03,Durable,Unknown,0
+193,"veal - inside,60.531399999999998,11,Medium,2017-02-26,Unknown,False,19
+194,Lettuce - frisee,66.735699999999994,6,Medium,2018-02-12,Unknown,False,0
+195,Beets - mini golden,3.5207999999999999,2,Medium,2017-08-18,Durable,Unknown,70
+196,Longos - grilled salmon with bbq,8.2286000000000001,1,High,2017-02-11,Unknown,Unknown,0
+197,Mussels - cultivated,13.0101,1,Medium,2018-01-11,Unknown,True,0
+198,Lime cordial - roses,35.218699999999998,1,Low,2017-04-06,Durable,False,60
+199,Pork - hock and feet attached,95.741500000000002,10,Medium,2017-12-15,Weak,Unknown,105
+200,Garlic - peeled,11.1295,5,Medium,2017-05-02,Weak,False,0
+201,Grenadine,96.387100000000004,8,Medium,2018-03-01,Weak,True,117
+202,Bay leaf,78.877799999999993,11,Low,2017-10-02,Weak,True,0
+203,"chicken - leg,59.9557,1,High,2017-09-25,Weak,Unknown,29
+204,Scallop - st. jaques,77.808999999999997,9,Medium,2017-12-06,Durable,True,5
+205,"turkey - whole,18.9757,5,High,2017-01-21,Weak,False,32
+206,Cocoa butter,77.560000000000002,3,Low,2017-07-19,Unknown,Unknown,0
+207,Coffee - hazelnut cream,14.268800000000001,10,Medium,2018-04-06,Unknown,True,116
+208,"mushroom - trumpet,8.7334999999999994,5,Medium,2017-06-06,Weak,False,15
+209,Sugar - fine,32.988500000000002,3,Low,2018-01-31,Unknown,Unknown,0
+210,"cheese - brie,82.235799999999998,3,High,2017-11-03,Unknown,Unknown,0
+211,Wine - prosecco valdobiaddene,2.0587,9,Low,2017-01-22,Unknown,True,76
+212,Curry paste - madras,61.746000000000002,2,High,2017-09-28,Weak,True,97
+213,Pate - cognac,70.589100000000002,10,High,2017-03-23,Weak,True,39
+214,French pastry - mini chocolate,61.2121,5,Low,2018-03-09,Durable,Unknown,0
+215,"veal - brisket,90.115700000000004,7,High,2017-11-06,Weak,Unknown,92
+216,Scallops - 10/20,39.025700000000001,1,Low,2017-04-04,Unknown,Unknown,0
+217,Bread - multigrain,96.519999999999996,8,Medium,2017-12-21,Durable,True,0
+218,Barramundi,85.193299999999994,8,High,2017-04-15,Weak,True,31
+219,Assorted desserts,58.978700000000003,5,Low,2017-01-08,Durable,False,0
+220,Meldea green tea liquor,17.960999999999999,10,Low,2017-01-12,Weak,False,0
+221,Bread crumbs - panko,81.900800000000004,3,Low,2017-07-06,Unknown,False,0
+222,"sole - dover,0.68459999999999999,3,High,2017-11-06,Unknown,False,0
+223,Pail with metal handle 16l white,94.439899999999994,1,Medium,2017-07-06,Unknown,Unknown,0
+224,Flour - pastry,28.861799999999999,1,High,2017-08-09,Weak,False,0
+225,Wine - charddonnay errazuriz,10.372199999999999,3,Medium,2017-08-28,Weak,Unknown,0
+226,"chestnuts - whole,92.087199999999996,10,Medium,2017-10-18,Durable,True,0
+227,Cheese - taleggio d.o.p.,55.469900000000003,5,Low,2018-04-14,Weak,False,0
+228,Sauce - hollandaise,77.808300000000003,3,High,2017-12-19,Durable,Unknown,93
+229,Bread - hot dog buns,57.983800000000002,9,Medium,2017-07-27,Weak,False,66
+230,"wine - cahors ac 2000,83.538899999999998,11,Medium,2017-09-01,Weak,False,75
+231,Crush - cream soda,68.306600000000003,5,Medium,2017-12-24,Unknown,True,0
+232,Quiche assorted,33.948999999999998,3,Medium,2018-01-12,Weak,False,0
+233,Duck - breast,56.620899999999999,11,Low,2017-05-04,Durable,True,0
+234,Tofu - firm,72.745699999999999,1,Medium,2017-02-27,Weak,Unknown,0
+235,Bread - english muffin,34.506100000000004,6,High,2018-05-09,Durable,False,0
+236,Tomato - tricolor cherry,85.694000000000003,1,Low,2017-10-02,Unknown,True,113
+237,Mayonnaise - individual pkg,65.630300000000005,8,Low,2017-12-29,Weak,False,94
+238,Garlic,28.406500000000001,6,Medium,2017-05-22,Durable,False,0
+239,"soup - campbells,7.6018999999999997,5,Medium,2017-06-03,Weak,True,0
+240,Wine - chablis 2003 champs,70.8596,4,Low,2017-05-14,Weak,False,0
+241,Cheese - cheddarsliced,67.815100000000001,9,Medium,2017-04-17,Unknown,Unknown,0
+242,Thermometer digital,32.649999999999999,9,Low,2017-05-17,Weak,False,11
+243,Sun - dried tomatoes,45.188299999999998,6,Medium,2017-11-02,Weak,False,104
+244,Beef - rib eye aaa,94.066400000000002,2,Low,2018-01-04,Unknown,True,0
+245,Grouper - fresh,37.679099999999998,1,Medium,2018-04-04,Weak,Unknown,111
+246,Ice cream bar - hageen daz to,48.537100000000002,9,Low,2017-12-10,Weak,False,96
+247,Juice - apple cider,59.003300000000003,9,High,2017-03-14,Weak,False,58
+248,Beef - inside round,99.319299999999998,7,Low,2017-04-29,Unknown,Unknown,0
+249,Cookie dough - double,76.620099999999994,10,Medium,2017-06-05,Weak,True,0
+250,"soup - campbells,64.495099999999994,1,Low,2017-05-17,Durable,False,0
+251,"oranges - navel,11.7087,5,Low,2017-07-01,Weak,True,7
+252,Nantucket - pomegranate pear,27.8169,4,Medium,2017-09-28,Weak,Unknown,83
+253,Wanton wrap,76.239999999999995,7,High,2017-03-29,Unknown,Unknown,0
+254,"soup - canadian pea,77.7804,1,Low,2017-12-04,Weak,True,0
+255,Kellogs all bran bars,29.2287,3,Low,2018-03-05,Weak,False,0
+256,Soup knorr chili with beans,95.702399999999997,6,Medium,2018-05-03,Durable,Unknown,0
+257,"pasta - detalini,84.438000000000002,11,High,2017-11-06,Durable,Unknown,0
+258,Tea - english breakfast,31.093900000000001,1,Low,2017-02-16,Weak,Unknown,0
+259,Veal - eye of round,67.436700000000002,7,High,2017-04-10,Unknown,True,71
+260,"yogurt - blueberry,26.8886,7,Low,2017-08-13,Durable,False,31
+261,Chinese foods - chicken,22.0901,9,High,2017-08-14,Durable,True,0
+262,Bagel - plain,36.460500000000003,7,Medium,2017-04-19,Durable,Unknown,41
+263,Soupfoamcont12oz 112con,50.749699999999997,7,Low,2018-03-20,Weak,False,0
+264,Juice - v8 splash,49.4497,3,High,2017-06-02,Durable,True,0
+265,"mushroom - porcini,13.9292,10,Medium,2018-03-20,Weak,Unknown,7
+266,Clam nectar,68.109700000000004,7,High,2017-05-19,Weak,Unknown,0
+267,Grapes - red,5.125,2,Medium,2017-05-28,Unknown,True,0
+268,Vanilla beans,97.843500000000006,9,Low,2017-01-25,Durable,False,0
+269,Wine - blue nun qualitatswein,26.706,11,Medium,2018-03-10,Durable,True,0
+270,Cheese cloth no 100,4.4215999999999998,6,Medium,2018-04-17,Durable,Unknown,101
+271,Banana - leaves,73.395399999999995,5,High,2017-08-13,Unknown,True,0
+272,"chocolate - semi sweet,68.113399999999999,2,Low,2017-08-01,Weak,True,13
+273,Bandage - flexible neon,77.591300000000004,4,Medium,2018-03-21,Weak,Unknown,0
+274,Papayas,88.119200000000006,2,Low,2018-01-03,Weak,False,0
+275,Corn meal,50.146000000000001,1,Medium,2018-02-03,Durable,True,88
+276,Snapple - iced tea peach,49.250799999999998,5,High,2017-02-20,Unknown,True,0
+277,Sea bass - whole,55.496400000000001,9,Medium,2017-05-06,Durable,Unknown,118
+278,Apricots - halves,0.3735,11,Medium,2017-11-09,Weak,False,87
+279,Beef - texas style burger,91.1828,1,Low,2017-09-14,Durable,True,0
+280,Onion powder,61.8352,5,Medium,2018-01-26,Durable,False,0
+281,"bar mix - pina colada,33.0839,2,High,2017-08-06,Durable,True,0
+282,"lemonade - natural,56.150599999999997,10,Low,2017-12-16,Durable,False,88
+283,Bread fig and almond,1.1881999999999999,4,Low,2017-07-16,Durable,False,0
+284,Beer - rickards red,93.488799999999998,9,Low,2017-03-13,Weak,False,0
+285,Cheese - mix,71.830200000000005,7,Low,2017-03-03,Unknown,Unknown,107
+286,Beef - prime rib aaa,40.489699999999999,2,Low,2017-03-29,Durable,False,29
+287,Bread - italian roll with herbs,57.709000000000003,7,Medium,2017-10-16,Durable,True,0
+288,"orange - canned,78.840500000000006,11,Low,2017-10-07,Durable,True,0
+289,Sword pick asst,43.5169,10,Low,2017-05-03,Durable,False,0
+290,Sauce - rosee,38.803699999999999,1,Low,2017-01-06,Unknown,True,110
+291,"crab - dungeness,1.2559,2,Medium,2017-07-05,Unknown,False,0
+292,Turkey - oven roast breast,34.5364,8,Low,2017-11-13,Unknown,False,0
+293,Garlic - elephant,60.969799999999999,11,Medium,2017-02-11,Durable,Unknown,0
+294,Wine - alsace gewurztraminer,80.713300000000004,10,Low,2018-02-28,Weak,Unknown,18
+295,"ice - clear,48.769500000000001,7,Low,2018-02-07,Unknown,True,0
+296,Wine - valpolicella masi,31.354500000000002,3,Low,2018-05-07,Weak,False,90
+297,Hinge w undercut,81.900300000000001,3,Low,2017-07-07,Durable,True,120
+298,Pop shoppe cream soda,95.738699999999994,4,Medium,2017-06-03,Unknown,False,0
+299,Fuji apples,80.137100000000004,4,Medium,2018-02-24,Unknown,False,0
+300,"beans - kidney,69.569400000000002,5,Medium,2017-11-16,Unknown,True,0
+301,Beer - labatt blue,43.411999999999999,8,Medium,2017-07-16,Weak,Unknown,0
+302,"doilies - 5,61.159799999999997,11,Medium,2017-02-18,Durable,Unknown,0
+303,Cod - black whole fillet,72.613299999999995,7,High,2017-06-28,Unknown,False,0
+304,Banana turning,72.198400000000007,5,High,2017-06-27,Unknown,True,0
+305,Pastry - cheese baked scones,91.099699999999999,8,Medium,2018-02-10,Weak,True,19
+306,"pepper - white,43.595300000000002,4,Low,2018-04-08,Durable,True,117
+307,Foam cup 6 oz,50.2256,1,High,2017-11-16,Durable,Unknown,0
+308,Tea - decaf lipton,88.120900000000006,6,High,2017-08-02,Durable,Unknown,0
+309,Muffin batt - choc chk,27.634399999999999,11,Medium,2018-03-09,Durable,True,76
+310,Coffee - dark roast,79.977999999999994,9,Low,2018-01-14,Weak,False,0
+311,Wonton wrappers,40.206000000000003,9,High,2017-12-29,Weak,Unknown,56
+312,Salmon - sockeye raw,84.064499999999995,1,Low,2017-09-27,Weak,True,54
+313,Veal - slab bacon,39.911099999999998,11,High,2017-10-12,Unknown,Unknown,116
+314,Salmon steak - cohoe 8 oz,5.6014999999999997,2,Medium,2017-07-23,Unknown,True,82
+315,Wine - gato negro cabernet,93.804699999999997,6,Medium,2017-01-07,Unknown,True,0
+316,Cheese - victor et berthold,65.939499999999995,11,High,2018-01-05,Weak,False,94
+317,Water - green tea refresher,35.272300000000001,3,Low,2018-02-10,Weak,False,0
+318,Ecolab - solid fusion,57.261000000000003,10,High,2018-01-07,Unknown,Unknown,76
+319,Towels - paper / kraft,77.619500000000002,7,High,2017-04-01,Unknown,Unknown,0
+320,Yogurt - french vanilla,73.439599999999999,9,Low,2017-12-22,Unknown,Unknown,0
+321,"potatoes - instant,10.400700000000001,1,Medium,2017-12-10,Durable,Unknown,0
+322,Onions - vidalia,26.284600000000001,2,Medium,2017-12-28,Unknown,Unknown,0
+323,Extract - lemon,54.326599999999999,10,High,2018-01-31,Weak,False,99
+324,Apricots - dried,87.902299999999997,10,Low,2018-03-04,Durable,True,42
+325,Halibut - fletches,3.1657000000000002,5,Low,2017-10-13,Unknown,True,87
+326,Appetizer - mushroom tart,38.859000000000002,9,High,2018-02-07,Unknown,False,0
+327,"appetizer - mini egg roll,7.1436000000000002,2,Medium,2017-06-20,Unknown,False,0
+328,Tuna - salad premix,96.878100000000003,6,Medium,2017-01-22,Durable,True,35
+329,"pork - loin,39.349600000000002,6,High,2018-04-05,Weak,True,0
+330,Olives - kalamata,18.791399999999999,10,Medium,2018-02-05,Unknown,False,0
+331,Cookies cereal nut,67.350499999999997,3,High,2017-12-23,Durable,Unknown,80
+332,Bouq all italian - primerba,59.757800000000003,5,Low,2018-04-12,Unknown,False,0
+333,Cheese - cottage cheese,20.2364,7,High,2018-01-23,Weak,False,0
+334,Ecolab - lime - a - way 4/4 l,21.613299999999999,7,High,2018-03-08,Weak,True,0
+335,"oil - shortening,18.423100000000002,9,Low,2017-11-06,Weak,Unknown,84
+336,Broom - corn,71.924099999999996,2,Low,2017-06-19,Durable,True,0
+337,Bread - rye,83.537300000000002,3,Low,2017-06-21,Durable,True,0
+338,Cheese - camembert,28.989899999999999,11,Low,2017-01-19,Durable,Unknown,0
+339,Beef - striploin aa,2.3889999999999998,2,Medium,2017-06-09,Weak,Unknown,0
+340,Veal - sweetbread,28.2349,3,High,2017-04-04,Durable,True,0
+341,"bread - roll,90.264099999999999,1,Low,2017-09-19,Weak,True,0
+342,Mangoes,69.588099999999997,1,Medium,2017-03-17,Unknown,False,51
+343,Otomegusa dashi konbu,51.206099999999999,1,High,2017-12-07,Durable,False,0
+344,Sausage - liver,63.538899999999998,2,Low,2017-08-26,Unknown,False,114
+345,Bread - calabrese baguette,98.597800000000007,4,Medium,2017-05-18,Durable,False,67
+346,Cheese - parmesan grated,17.191400000000002,1,Low,2018-02-15,Unknown,True,0
+347,Pail for lid 1537,94.625299999999996,8,Low,2017-02-01,Unknown,True,0
+348,Pasta - cheese / spinach bauletti,55.368299999999998,10,Low,2017-11-29,Durable,True,54
+349,Puree - mocha,86.908600000000007,4,Medium,2018-02-21,Unknown,True,0
+350,Isomalt,82.829999999999998,8,Low,2017-02-02,Unknown,True,0
+351,Hot chocolate - individual,96.082300000000004,1,High,2017-03-28,Durable,Unknown,0
+352,"beef - tenderlion,24.639299999999999,4,Low,2017-11-06,Unknown,False,5
+353,Milk powder,18.1191,8,Medium,2017-03-04,Weak,True,80
+354,Crackers cheez it,6.6974999999999998,7,Medium,2017-03-05,Unknown,False,0
+355,Olives - stuffed,59.168700000000001,5,Low,2018-04-15,Durable,False,12
+356,Dc - frozen momji,17.127400000000002,6,High,2017-11-25,Durable,Unknown,0
+357,Tilapia - fillets,6.8331999999999997,2,Medium,2017-05-27,Durable,False,0
+358,"cheese - boursin,84.711100000000002,9,Medium,2017-09-02,Unknown,True,0
+359,Rice - long grain,69.032700000000006,11,High,2018-01-21,Durable,True,96
+360,Wine - hardys bankside shiraz,52.240699999999997,10,Medium,2017-01-04,Durable,True,89
+361,Coffee decaf colombian,36.451599999999999,2,Medium,2017-10-20,Weak,True,71
+362,Cumin - whole,53.3476,7,Medium,2017-10-26,Durable,Unknown,0
+363,Cornflakes,48.7712,11,High,2017-09-06,Unknown,True,0
+364,Cattail hearts,8.8429000000000002,1,High,2017-02-01,Unknown,Unknown,0
+365,"wine - red,12.6274,7,Medium,2017-11-06,Weak,True,95
+366,Tahini paste,80.448300000000003,4,High,2018-01-25,Unknown,False,0
+367,Bread - italian corn meal poly,63.828099999999999,5,Medium,2018-01-12,Unknown,True,65
+368,Flour - teff,18.297799999999999,4,Low,2017-12-14,Unknown,False,0
+369,Rambutan,87.1785,5,Medium,2017-01-10,Unknown,True,10
+370,Muffin - carrot individual wrap,21.880600000000001,4,Low,2017-11-28,Weak,True,0
+371,Creme de banane - marie,82.402199999999993,8,High,2017-07-18,Durable,Unknown,0
+372,Wine - two oceans cabernet,6.2824,3,Low,2018-01-22,Unknown,True,0
+373,Beef - montreal smoked brisket,54.871899999999997,9,Medium,2017-08-01,Durable,False,0
+374,Jagermeister,49.384599999999999,5,Low,2018-05-07,Durable,False,0
+375,Snapple lemon tea,83.1755,8,High,2017-04-05,Unknown,True,80
+376,Pasta - angel hair,40.812600000000003,11,High,2017-09-26,Durable,True,51
+377,"wine - red,75.078500000000005,1,Medium,2017-01-22,Durable,False,7
+378,Bread foccacia whole,90.787700000000001,9,High,2017-06-08,Durable,False,0
+379,Smoked paprika,89.304599999999994,7,High,2017-10-18,Unknown,False,81
+380,Wine - white cab sauv.on,85.974299999999999,4,High,2018-01-05,Unknown,True,0
+381,Vaccum bag 10x13,44.233699999999999,1,High,2018-01-06,Unknown,Unknown,41
+382,Soup - campbells bean medley,51.775399999999998,4,Medium,2017-11-28,Weak,Unknown,0
+383,Cake - box window 10x10x2.5,9.9694000000000003,2,High,2017-04-10,Weak,Unknown,0
+384,Fond - neutral,56.5197,10,High,2018-03-03,Unknown,True,105
+385,"pork - back,22.709099999999999,10,High,2017-11-06,Durable,False,97
+386,Sprouts - baby pea tendrils,42.711199999999998,10,Medium,2017-02-16,Weak,False,0
+387,Fondant - icing,41.638599999999997,9,High,2018-02-09,Durable,False,100
+388,Table cloth 120 round white,13.5389,1,Medium,2017-11-21,Durable,True,0
+389,Pomello,62.444699999999997,3,Medium,2018-04-01,Unknown,Unknown,103
+390,"seedlings - mix,1.2956000000000001,3,Low,2017-12-27,Unknown,False,0
+391,Bread - bistro white,65.090800000000002,1,Medium,2017-01-24,Unknown,True,72
+392,Puree - passion fruit,98.826300000000003,5,High,2018-02-25,Unknown,True,33
+393,Olive - spread tapenade,59.9572,1,Low,2017-05-08,Unknown,Unknown,0
+394,Rum - mount gay eclipes,50.148400000000002,3,High,2017-06-06,Durable,True,76
+395,Juice - lime,91.783299999999997,1,Low,2017-10-22,Weak,True,0
+396,Tea - jasmin green,36.916499999999999,6,High,2018-04-03,Durable,False,0
+397,Juice - happy planet,20.8169,1,Medium,2017-11-17,Weak,False,70
+398,Wine - wyndham estate bin 777,42.363199999999999,11,High,2017-11-05,Weak,True,67
+399,Berry brulee,50.9114,6,Medium,2017-08-04,Unknown,True,0
+400,Carbonated water - blackcherry,18.1495,1,High,2017-08-30,Durable,True,0
+401,"tart shells - sweet,53.363399999999999,8,High,2017-02-03,Unknown,Unknown,51
+402,Butter - unsalted,76.327500000000001,5,High,2017-06-27,Durable,Unknown,6
+403,Liners - baking cups,68.189800000000005,5,Medium,2017-11-20,Unknown,Unknown,0
+404,Pants custom dry clean,65.028000000000006,1,Medium,2017-03-27,Durable,False,0
+405,Pastry - raisin muffin - mini,0.42780000000000001,11,Medium,2017-11-25,Durable,True,0
+406,"shrimp - baby,89.799899999999994,9,High,2017-07-13,Durable,False,0
+407,"pepsi - diet,69.767399999999995,7,High,2017-04-08,Weak,False,0
+408,Blueberries,68.7346,4,Low,2017-03-06,Unknown,False,0
+409,Skirt - 29 foot,23.521999999999998,11,Medium,2018-04-08,Durable,Unknown,0
+410,Fenngreek seed,18.356000000000002,6,Low,2017-07-20,Unknown,Unknown,91
+411,Durian fruit,42.048900000000003,6,Low,2017-11-03,Unknown,True,0
+412,Lettuce - california mix,16.0456,5,High,2018-04-27,Weak,True,0
+413,Ice cream bar - oreo cone,95.406499999999994,3,High,2018-03-25,Durable,False,5
+414,Sauerkraut,83.058499999999995,7,Low,2017-01-17,Durable,Unknown,87
+415,Mussels - frozen,8.0068999999999999,10,High,2017-05-07,Durable,False,0
+416,Baking powder,84.676299999999998,10,Low,2018-03-31,Weak,True,0
+417,"lamb - pieces,43.378100000000003,5,Medium,2017-07-18,Unknown,Unknown,12
+418,Truffle cups - brown,92.251599999999996,2,Low,2017-11-12,Unknown,True,0
+419,Pork - belly fresh,86.133799999999994,3,Low,2017-07-31,Weak,True,8
+420,Whmis - spray bottle trigger,69.916300000000007,9,High,2018-04-15,Weak,True,0
+421,Soup v8 roasted red pepper,38.809600000000003,6,High,2018-04-25,Durable,False,0
+422,"garlic - primerba,50.289200000000001,5,High,2017-02-22,Weak,Unknown,60
+423,"fish - scallops,55.853099999999998,2,Medium,2018-01-21,Unknown,Unknown,35
+424,Vinegar - tarragon,85.882800000000003,3,Medium,2017-05-23,Unknown,False,0
+425,Wine - redchard merritt,56.7898,4,Medium,2017-11-04,Weak,Unknown,0
+426,Scallops - live in shell,83.575900000000004,3,Low,2017-09-29,Unknown,Unknown,0
+427,Wine - vineland estate semi - dry,46.325200000000002,3,High,2017-09-17,Durable,False,0
+428,Wine - ruffino chianti,4.7234999999999996,7,Medium,2017-02-25,Unknown,True,48
+429,Beef - short loin,57.601300000000002,4,High,2017-07-17,Weak,False,0
+430,Milk - 1%,46.258899999999997,2,Low,2017-05-12,Durable,False,84
+431,Muffin chocolate individual wrap,19.995699999999999,10,Medium,2018-03-18,Weak,False,89
+432,Beer - original organic lager,32.715299999999999,2,High,2017-07-26,Unknown,False,44
+433,"beans - kidney,39.876199999999997,3,Low,2018-03-14,Durable,False,11
+434,Cookie - dough variety,71.155100000000004,7,Low,2017-02-18,Weak,True,0
+435,"salsify,32.610900000000001,8,High,2017-12-02,Durable,True,0
+436,Table cloth 81x81 white,67.906300000000002,7,High,2017-07-13,Unknown,False,25
+437,Chips potato all dressed - 43g,83.585599999999999,10,High,2017-01-09,Durable,Unknown,0
+438,Juice - orange,44.941499999999998,2,Low,2017-01-15,Durable,Unknown,0
+439,"beef - chuck,56.091900000000003,11,Medium,2017-04-09,Unknown,False,108
+440,Pork - inside,32.909199999999998,1,Low,2017-05-01,Unknown,Unknown,0
+441,Blackberries,72.943899999999999,3,Medium,2018-03-19,Weak,Unknown,0
+442,Wine - ej gallo sierra valley,72.9041,6,Medium,2017-12-06,Unknown,Unknown,106
+443,Lettuce - spring mix,90.016900000000007,2,Low,2017-12-22,Unknown,False,79
+444,Cheese - cambozola,44.0886,8,Low,2017-09-13,Durable,Unknown,56
+445,Pastry - choclate baked,59.246699999999997,8,High,2017-02-23,Weak,Unknown,76
+446,Sunflower seed raw,49.045200000000001,7,High,2017-02-06,Unknown,Unknown,18
+447,"salmon - atlantic,3.4198,3,High,2018-04-12,Unknown,True,0
+448,Gatorade - xfactor berry,76.898799999999994,5,Low,2017-04-22,Unknown,False,0
+449,Nantuket peach orange,42.141399999999997,4,Low,2017-01-31,Unknown,False,0
+450,Wine - vidal icewine magnotta,7.1070000000000002,3,Low,2017-12-01,Unknown,Unknown,0
+451,Soup - campbells tomato ravioli,93.538399999999996,1,Low,2017-09-16,Durable,False,0
+452,Napkin white - starched,28.565300000000001,11,Low,2017-01-06,Durable,Unknown,0
